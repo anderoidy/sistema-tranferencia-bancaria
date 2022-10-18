@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sistema-tranferencia-bancaria/1.0.0": {
+        "runtime": {
+          "sistema-tranferencia-bancaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistema-tranferencia-bancaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

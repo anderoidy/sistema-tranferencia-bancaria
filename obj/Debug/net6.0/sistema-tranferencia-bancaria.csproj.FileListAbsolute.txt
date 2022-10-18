@@ -1,0 +1,15 @@
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\bin\Debug\net6.0\sistema-tranferencia-bancaria.exe
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\bin\Debug\net6.0\sistema-tranferencia-bancaria.deps.json
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\bin\Debug\net6.0\sistema-tranferencia-bancaria.runtimeconfig.json
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\bin\Debug\net6.0\sistema-tranferencia-bancaria.dll
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\bin\Debug\net6.0\sistema-tranferencia-bancaria.pdb
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.csproj.AssemblyReference.cache
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.AssemblyInfo.cs
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.dll
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\refint\sistema-tranferencia-bancaria.dll
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.pdb
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\sistema-tranferencia-bancaria.genruntimeconfig.cache
+C:\Users\ander\Documents\sistema-tranferencia-bancaria\sistema-tranferencia-bancaria\obj\Debug\net6.0\ref\sistema-tranferencia-bancaria.dll
